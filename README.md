@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&height=60&lines= Hi+there%2C+I'm+Amlesh+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Amlesh+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Software Engineer** with expertise in modern web technologies. I love creating innovative solutions and building applications that make a difference. My journey in software development spans across frontend, backend, and everything in between.
+I'm a passionate **Full Stack Developer** with expertise in modern web technologies. I love creating innovative solutions and building applications that make a difference. My journey in software development spans across frontend, backend, and everything in between.
 
 - 🔭 I'm currently working on **Naagrik Platform** - A comprehensive citizen services application
 - 🌱 I'm currently learning **Advanced React Patterns**, **Microservices Architecture**, and **Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
 - 💡 I'm passionate about **Problem Solving**, **Clean Code**, and **User Experience**
-- ⚡ Fun fact: I love building games and interactive applications in my free time!
+- ⚡ Fun fact: I love building real world project and interactive applications in my free time!
 
 ---
 
@@ -106,8 +106,7 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amlesh-kumar01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amlesh-kumar01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amleshkr396@gmail.com)
 
 </div>
 
