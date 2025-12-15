@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&height=60&lines=Hi+there%2C+I'm+Amlesh+Kumar+%F0%9F%91%8B;Full+Stack+Developer;" alt="Typing SVG" />
-</h1>
+<h1 align="center">Amlesh Kumar</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amlesh-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,19 +7,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** with expertise in modern web technologies. I love creating innovative solutions and building applications that make a difference. My journey in software development spans across frontend, backend, and everything in between.
+I am a third-year undergraduate student at the **Indian Institute of Technology, Kharagpur**. I have prior experience in full-stack development and am currently learning artificial intelligence and machine learning.
 
-- 🔭 I'm currently working on **Naagrik Platform** - A comprehensive citizen services application
-- 🌱 I'm currently learning **Advanced React Patterns**, **Microservices Architecture**, and **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
-- 💡 I'm passionate about **Problem Solving**, **Clean Code**, and **User Experience**
-- ⚡ Fun fact: I love building real world project and interactive applications in my free time!
+- Currently working on **Naagrik Platform** - A comprehensive citizen services application
+- Learning **Advanced React Patterns**, **Microservices Architecture**, **Cloud Technologies**, and **Artificial Intelligence**
+- Open to collaborating on **Open Source Projects** and **Web Applications**
+- Interested in **Problem Solving**, **Clean Code**, and **User Experience**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -49,7 +46,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amlesh-kumar01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -66,7 +63,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -80,27 +77,27 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔥 Building scalable web applications with modern frameworks
-- 🌐 Exploring cloud technologies and DevOps practices  
-- 📱 Developing responsive and user-friendly interfaces
-- 🤖 Integrating AI/ML capabilities into web applications
-- 🔍 Contributing to open source projects
-
----
-
-## 🏅 Achievements & Highlights
-
-- 🚀 **14+ Repositories** showcasing diverse technical skills
-- 💻 **Full Stack Expertise** in JavaScript, TypeScript, Python, and C#
-- 🎯 **Project Diversity** from games to enterprise applications
-- 🔧 **Problem Solver** with experience in inventory management, weather apps, and civic tech
-- 📈 **Continuous Learner** always exploring new technologies
+- Building scalable web applications with modern frameworks
+- Exploring cloud technologies and DevOps practices  
+- Developing responsive and user-friendly interfaces
+- Integrating AI/ML capabilities into web applications
+- Contributing to open source projects
 
 ---
 
-## 📫 Let's Connect
+## Achievements & Highlights
+
+- **14+ Repositories** showcasing diverse technical skills
+- **Full Stack Expertise** in JavaScript, TypeScript, Python, and C#
+- **Project Diversity** from games to enterprise applications
+- **Problem Solver** with experience in inventory management, weather apps, and civic tech
+- **Continuous Learner** always exploring new technologies
+
+---
+
+## Contact
 
 <div align="center">
   
@@ -113,8 +110,8 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ---
 
 <div align="center">
-  <h3>💫 Thank you for visiting my profile!</h3>
-  <p>Feel free to explore my repositories and don't hesitate to reach out for collaborations or just to say hi! 😊</p>
+  <h3>Thank you for visiting my profile.</h3>
+  <p>Feel free to explore my repositories and reach out for collaborations.</p>
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 </div>
