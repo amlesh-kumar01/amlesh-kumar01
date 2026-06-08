@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=amlesh-kumar01&label=Profile%20Views" />
 </p>
 
 B.Tech (Hons.) in Metallurgical and Materials Engineering at IIT Kharagpur.
@@ -59,28 +59,38 @@ LinkedIn: https://www.linkedin.com/in/amlesh-kumar-a1409127a/
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amlesh-kumar01&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh-kumar01&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amlesh-kumar01&hide_border=true" />
 </p>
 
-## Contribution Activity
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amlesh-kumar01&hide_border=true" />
 </p>
 
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amlesh-kumar01&no-frame=true&row=1&column=6" />
 </p>
 
-## Contribution Snake
+## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amlesh-kumar01&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amlesh-kumar01&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amlesh-kumar01&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amlesh-kumar01&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amlesh-kumar01&theme=github&utcOffset=5.5" />
 </p>
