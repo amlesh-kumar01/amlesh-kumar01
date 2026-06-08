@@ -1,117 +1,60 @@
-<h1 align="center">Amlesh Kumar</h1>
+# Amlesh Kumar
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amlesh-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/amlesh-kumar01?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amlesh%20Kumar&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
----
+B.Tech (Hons.) in Metallurgical and Materials Engineering at IIT Kharagpur.
 
-## About Me
-
-I am a third-year undergraduate student at the **Indian Institute of Technology, Kharagpur**. I have prior experience in full-stack development and am currently learning artificial intelligence and machine learning.
-
-- Currently working on **Naagrik Platform** - A comprehensive citizen services application
-- Learning **Advanced React Patterns**, **Microservices Architecture**, **Cloud Technologies**, and **Artificial Intelligence**
-- Open to collaborating on **Open Source Projects** and **Web Applications**
-- Interested in **Problem Solving**, **Clean Code**, and **User Experience**
-
----
+I enjoy building scalable software systems, AI applications, and developer tools. My interests include Full-Stack Development, Large Language Models, Knowledge Graphs, Retrieval-Augmented Generation (RAG), and AI Research.
 
 ## Tech Stack
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
+C++, Python, JavaScript, TypeScript, SQL, Solidity
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+**Frontend**
+React, Next.js, React Native, Tailwind CSS
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend**
+Django, FastAPI, Express.js, Node.js
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Databases & Infrastructure**
+PostgreSQL, MongoDB, Redis, Docker
 
----
+**AI & Data**
+PyTorch, LangChain, Scikit-learn, NumPy, Pandas
 
-## GitHub Statistics
+## Experience
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amlesh-kumar01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh-kumar01&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+**Software Development Intern — Datsol Solutions**
+**SRIC Research Intership, IIT Kharagpur**
+**Software Engineering Inter - BrainDart**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amlesh-kumar01&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+## Leadership
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amlesh-kumar01&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" alt="Activity Graph" />
-</div>
+**Tech Head — Gopali Youth Welfare Society**
 
----
+**Research Head — Kharagpur Blockchain Society**
 
-## Featured Projects
+## Selected Projects
 
-<div align="center">
+* KgpOne
+* Vibemeter AI Chatbot
+* Naagrik
+* Password Manager
 
-[![Naagrik Frontend](https://github-readme-stats.vercel.app/api/pin/?username=amlesh-kumar01&repo=naagrik-frontend&theme=tokyonight)](https://github.com/amlesh-kumar01/naagrik-frontend)
-[![Inventory Insight](https://github-readme-stats.vercel.app/api/pin/?username=amlesh-kumar01&repo=inverntory-insight&theme=tokyonight)](https://github.com/amlesh-kumar01/inverntory-insight)
+## Connect
 
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=amlesh-kumar01&repo=weather&theme=tokyonight)](https://github.com/amlesh-kumar01/weather)
-[![Workflow Engine](https://github-readme-stats.vercel.app/api/pin/?username=amlesh-kumar01&repo=WorkflowEngine&theme=tokyonight)](https://github.com/amlesh-kumar01/WorkflowEngine)
+Email: [amleshkr396@gmail.com](mailto:amleshkr396@gmail.com)
 
-</div>
+LinkedIn: https://www.linkedin.com/in/amlesh-kumar-a1409127a/
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
 
-## Current Focus
-
-- Building scalable web applications with modern frameworks
-- Exploring cloud technologies and DevOps practices  
-- Developing responsive and user-friendly interfaces
-- Integrating AI/ML capabilities into web applications
-- Contributing to open source projects
-
----
-
-## Achievements & Highlights
-
-- **14+ Repositories** showcasing diverse technical skills
-- **Full Stack Expertise** in JavaScript, TypeScript, Python, and C#
-- **Project Diversity** from games to enterprise applications
-- **Problem Solver** with experience in inventory management, weather apps, and civic tech
-- **Continuous Learner** always exploring new technologies
-
----
-
-## Contact
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amlesh-kumar01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amlesh-kumar-a1409127a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amleshkr396@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <h3>Thank you for visiting my profile.</h3>
-  <p>Feel free to explore my repositories and reach out for collaborations.</p>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
